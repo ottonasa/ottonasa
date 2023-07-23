@@ -3,7 +3,6 @@
 - 🌱 Estudando Engenharia da Computação
 - 🌱 Estudando Desenvolvimento de Software com foco em back-end
 - 💬 Leitor nas horas vagas
-- 😄 Pronouns: Ele/Dele
 ##
   
 <div style="display: inline_block"><br>
